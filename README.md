@@ -5,7 +5,7 @@
 <h1 align="left"> Badges and stuff </h1>
 <p align="left">
 	<h3>Primary Languages</h3>
-	<img alt="C# Developer" src="https://img.shields.io/badge/C%23-6a47db?logo=csharp&logoColor=white"> <img alt="Microsoft C++ Developer" src="https://img.shields.io/badge/Microsoft_C%2B%2B-00589d?logo=c%2B%2B&logoColor=white">
+	<img alt="C# Developer" src="https://img.shields.io/badge/C%23-6a47db?logo=csharp&logoColor=white">&nbsp<img alt="Microsoft C++ Developer" src="https://img.shields.io/badge/Microsoft_C%2B%2B-00589d?logo=c%2B%2B&logoColor=white">
 	<h3>Non-language Experience</h3>
 	<img alt="JavaScript Object Notation" src="https://img.shields.io/badge/JSON-575757?logo=json&logoColor=white">
 	<img alt="HyperText Markup language" src="https://img.shields.io/badge/HTML-e54c21?logo=html5&logoColor=white">
