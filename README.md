@@ -11,7 +11,6 @@
 	<img alt="JavaScript Object Notation" src="https://img.shields.io/badge/JSON-575757?logo=json&logoColor=white">
 	<img alt="HyperText Markup language" src="https://img.shields.io/badge/HTML-e54c21?logo=html5&logoColor=white">
 	<img alt="Discord API" src="https://img.shields.io/badge/Discord%20API-5865F2?logo=discord&logoColor=white">
-	<br/>
 	<img alt="Exeprience in Windows System Management" src="https://img.shields.io/badge/Windows%20APIs%20%26%20Registry-5865F2?logo=Windows&logoColor=0078d4&labelColor=FFF&color=FFF">
 	<img alt=".NET Development" src="https://img.shields.io/badge/.NET%20Development-5632d5?logo=dotnet&logoColor=white">
 	<h3>Extra Hobbies</h3>
